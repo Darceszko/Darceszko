@@ -24,12 +24,12 @@ I'm a self-taught Python learner from Romania. I'm currently building my program
 - Learning Git and GitHub
 - Growing my programming portfolio
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Git & GitHub
 
-## 📚 Currently Exploring
+## Currently Exploring
 
 I'm interested in discovering which area of software development suits me best. As I continue learning, I plan to explore topics such as:
 
@@ -39,7 +39,7 @@ I'm interested in discovering which area of software development suits me best. 
 - APIs
 - Backend development
 
-## 📌 Goals
+## Goals
 
 - Complete CS50P
 - Build a strong portfolio of Python projects
